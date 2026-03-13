@@ -2,14 +2,7 @@
 
 <br/>
 
-```
-███╗   ██╗ ██████╗ ██╗  ██╗    ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗
-████╗  ██║██╔═══██╗╚██╗██╔╝    ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗
-██╔██╗ ██║██║   ██║ ╚███╔╝     ██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝
-██║╚██╗██║██║   ██║ ██╔██╗     ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗
-██║ ╚████║╚██████╔╝██╔╝ ██╗    ██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║
-╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝    ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-```
+*NoxPlayer*
 
 **A sleek, frameless music player built with Python & PySide6**
 
@@ -20,12 +13,6 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://github.com/DevNexe)
 [![License](https://img.shields.io/badge/License-MIT-f0a500?style=flat-square)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-DevNexe-181717?style=flat-square&logo=github)](https://github.com/DevNexe)
-
-<br/>
-
-![NoxPlayer Screenshot Placeholder](https://placehold.co/860x480/0a0a0a/444444?text=NoxPlayer+UI)
-
-<br/>
 
 </div>
 
