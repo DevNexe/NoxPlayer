@@ -2,7 +2,7 @@
 
 <br/>
 
-*NoxPlayer*
+<h1>NoxPlayer</h1>
 
 **A sleek, frameless music player built with Python & PySide6**
 
